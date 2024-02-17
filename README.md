@@ -1,4 +1,6 @@
 # cyberchallenge-4
+# NOT WORKS CORRECTLY 
+
 **Charlie:** Let me get this right: in binary exploitation, we inject massive strings into the program's input fields, and if we notice that our string is in memory where it shouldn't be, that's a problem, right?
 
 **Alan:** Exactly, Charlie! And there's more: sometimes we need to carefully craft these strings to precisely locate our position within them.
